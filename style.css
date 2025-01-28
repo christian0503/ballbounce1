@@ -31,7 +31,7 @@ h1 {
 }
 
 .ball1 {
-  left: 20%;
+  left: 10%;
   background: linear-gradient(135deg, #ff7eb3, #ff758c);
   z-index: 3;
   animation-delay: 0s;
@@ -45,10 +45,10 @@ h1 {
 }
 
 .ball3 {
-  left: 80%;
+  left: 90%;
   background: linear-gradient(135deg, #89cff0, #005082);
   z-index: 1;
-  animation-delay: 1s;
+  animation-delay:0.5s;
 }
 
 @keyframes bounce {
